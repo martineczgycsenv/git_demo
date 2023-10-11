@@ -4,7 +4,9 @@ standing stong
 on this their chosen battle field
 
 Form the lines
+<<<<<<< HEAD
 Shield by shield
 Side by side
 We're marching into destiny
 ------------------------------------
+
